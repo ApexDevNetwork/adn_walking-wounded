@@ -13,7 +13,6 @@ Este script permite que el jugador camine herido automáticamente cuando su salu
 ```cfg
 ensure adn_walking-wounded
 ```
-
 ## ⚙️ Funcionamiento
 Si la salud del jugador cae por debajo de 160, empieza a caminar con animación de herido.
 Al recuperar salud por encima de 160, vuelve a caminar normalmente.
